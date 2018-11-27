@@ -1,5 +1,4 @@
-![cyberx-logo](https://cloud.githubusercontent.com/assets/1287098/11723702/5225d8ce-9f78-11e5-803d-b5927ebbd254.png)
-
+![cyberx-logo](https://user-images.githubusercontent.com/26201360/49066226-1c77e300-f229-11e8-9b90-97126f70a5bd.png)
 
 
 ## Cyber Sign
